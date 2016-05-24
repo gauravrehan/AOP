@@ -7,6 +7,6 @@ public class SecurityAspect {
 
 	private Authenticator authenticator = new Authenticator();
 	
-	pointcut secureAccess()
+//	pointcut secureAccess()
 	
 }
